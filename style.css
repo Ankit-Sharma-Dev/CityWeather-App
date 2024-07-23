@@ -94,3 +94,27 @@ body{
     font-size:28;
     margin-top:-6px;
 }
+.city{
+    color:white;
+}
+.temp{
+    color:white;
+}
+.humidity{
+    color:white;
+    
+}
+.col{
+    color: white;
+}
+.weather{
+    display: none;
+}
+.error{
+    color: red;
+    text-align: left;
+    margin-left:120px ;
+    margin-top: 10px;
+    font-size: 14px;
+    display:none;
+}
