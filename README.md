@@ -16,8 +16,7 @@ OpenWeather API
 🚀 Getting Started
 To get a local copy up and running, follow these steps:
 
-Clone the repo
-Copygit clone https://github.com/yourusername/cityweather-app.git
+ 
 
 Install dependencies
 Copynpm install
@@ -28,6 +27,8 @@ Enter your API key in config.js
 Run the app
 Copynpm start
 
+
+Check the app here : https://yvwfnm.csb.app/
 
 🖥️ Usage
 Enter the name of any city in the search bar and hit enter. The app will display the current temperature, wind speed, and humidity for that location.
