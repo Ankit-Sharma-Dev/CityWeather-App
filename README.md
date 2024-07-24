@@ -13,21 +13,6 @@ A simple and intuitive weather application that provides essential weather infor
 
 OpenWeather API
 
-🚀 Getting Started
-To get a local copy up and running, follow these steps:
-
- 
-
-Install dependencies
-Copynpm install
-
-Enter your API key in config.js
- 
-
-Run the app
-Copynpm start
-
-
 Check the app here : https://yvwfnm.csb.app/
 
 🖥️ Usage
@@ -36,7 +21,7 @@ Enter the name of any city in the search bar and hit enter. The app will display
 Contributions, issues, and feature requests are welcome! Feel free to check issues page.
  
 📞 Contact
-Your Name - Ankit - ankitsharma64604@gmail.com 
+-me- ankitsharma64604@gmail.com 
  
  
  Here are some screenshots for the references :
